@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns:oryx="http://www.b3mn.org/oryx" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+	 viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+<oryx:magnets>
+	<oryx:magnet  oryx:default="yes" oryx:cy="16" oryx:cx="16"></oryx:magnet>
+</oryx:magnets>
+<g>
+	
+		<radialGradient id="bg_frame_1_" cx="-557.0425" cy="20.1226" r="1" gradientTransform="matrix(40 0 0 40 22281.1875 -805.4375)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<path id="bg_frame" fill="url(#bg_frame_1_)" stroke="#000000" d="M-4.5,16L16-4.5L35.5,16L16,35.5L-4.5,16z"/>
+	<g id="cross">
+		<path id="crosspath" stroke="#000000" d="M8.75,7.55h4l10.4,16.9h-3.9L8.75,7.55z"/>
+		<path id="crosspath2" stroke="#000000" d="M8.75,24.45l10.5-16.9h3.9l-10.4,16.9H8.75z"/>
+	</g>
+</g>
+</svg>

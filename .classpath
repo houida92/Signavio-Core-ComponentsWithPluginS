@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="editor/buildApps/src"/>
+	<classpathentry kind="src" path="platform extensions/bpmn20xmlbasic/src"/>
+	<classpathentry kind="src" path="platform extensions/diagram core/src"/>
+	<classpathentry kind="src" path="platform extensions/diagram core/test"/>
+	<classpathentry kind="src" path="platform extensions/jpdl/src"/>
+	<classpathentry kind="src" path="platform extensions/syntaxchecker/src"/>
+	<classpathentry kind="src" path="platform/src"/>
+	<classpathentry kind="lib" path="editor/buildApps/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="editor/buildApps/lib/grand-1.8.jar"/>
+	<classpathentry kind="lib" path="editor/buildApps/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="editor/buildApps/lib/yuicompressor-2.4.2.jar"/>
+	<classpathentry kind="lib" path="editor/jsdoc-toolkit/js.jar"/>
+	<classpathentry kind="lib" path="editor/jsdoc-toolkit/jsdebug.jar"/>
+	<classpathentry kind="lib" path="editor/jsdoc-toolkit/jsdoctoolkit-ant-task-1.0.jar"/>
+	<classpathentry kind="lib" path="editor/jsdoc-toolkit/jsrun.jar"/>
+	<classpathentry kind="lib" path="editor/lib/yuicompressor-2.4.2.jar"/>
+	<classpathentry kind="lib" path="explorer/lib/jslint4java-1.3.3.jar"/>
+	<classpathentry kind="lib" path="explorer/lib/yuicompressor-2.4.2.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="platform extensions/bpmn20xmlbasic/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="platform extensions/diagram core/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="platform extensions/diagram core/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="platform extensions/jpdl/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="platform extensions/jpdl/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="platform/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="platform/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="platform/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="platform/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="platform/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="platform/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="platform/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="platform/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="platform/lib/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="platform/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="platform/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="platform/lib/jasper-jdt.jar"/>
+	<classpathentry kind="lib" path="platform/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="platform/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="platform/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="platform/lib/nekohtml-1.9.12.jar"/>
+	<classpathentry kind="lib" path="platform/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="platform/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="platform/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="platform/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="platform/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="platform/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="platform/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="platform/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-anim.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-codec.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-css.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-dom.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-ext.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-extension.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-gui-util.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-parser.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-rasterizer-ext.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-rasterizer.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-script.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-svgpp.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-swing.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-transcoder.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-util.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik-xml.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/batik.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/bsh-2.0b1.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/connector.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jaas.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jboss-system.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/js.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jta.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/jtidy-r8-20060801.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/pdf-transcoder.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/platform-extension-bpmn2_0.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/platform-extension-diagram.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/platform-extension-jpdl.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/platform-extension-syntaxchecker.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/swarmcache-1.0rc2.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/xml-apis-ext.jar"/>
+	<classpathentry kind="lib" path="platform/WebContent/WEB-INF/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="External/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="platform/lib/weka.jar"/>
+	<classpathentry kind="lib" path="External/java-cup-11b-runtime.jar"/>
+	<classpathentry kind="lib" path="External/java-cup-11b.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="platform/target/classes"/>
+</classpath>
